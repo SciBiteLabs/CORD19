@@ -1,4 +1,4 @@
-# CORD19 Annotated Data v1.0
+# COVID-19 Annotated Data v1.0
 ### Sentence level annotations for the COVID-19 Open Research Dataset Challenge using biomedical ontologies from SciBite ###
 
 ## Overview ##
