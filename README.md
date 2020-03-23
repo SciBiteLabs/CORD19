@@ -6,7 +6,7 @@ In March 2020 in response to the COVID-19 pandemic, The White House, AI2, CZI, M
 
 ## Contact Us ##
 
-If you have any questions or feedback or are interested in more detailed data annotations you can get in touch with us by emailing: cvdata@scibite.com or by raising a ticket in this GitHub repo. 
+If you have any questions or feedback or are interested in additional data annotations you can get in touch with us by emailing: cvdata@scibite.com or by raising a ticket in this GitHub repo. 
 
 ## What is in this SciBite annotated dataset? ##
 
