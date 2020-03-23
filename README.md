@@ -16,14 +16,14 @@ Our ontology and SciBiteAI teams have used our software to produce sentence leve
 Ontology Type | Total Hits | Unique Hits
 ------------ | ------------- | -------------
 SPECIES | 2918832 | 3234
-GOONTOL - gene ontology terms | 1792505 | 7980
-INDICATION | 2796144 | 5222
+GOONTOL - Gene Ontology terms | 1792505 | 7980
+INDICATION - MeSH | 2796144 | 5222
 SARSCOV - coronavirus strains and viral processes | 269567 | 247
 COUNTRY | 383215 | 227
 HPO - human phenotypes | 779931 | 4256
-GENE | 930098 | 11491
+GENE - HGNC | 930098 | 11491
 CVPROT - proteins of COVID-19 | 200180 | 14
-DRUG | 449977 | 9636
+DRUG - ChEMBL | 449977 | 9636
 
 ## Possible use examples of this annotated dataset ##
 
