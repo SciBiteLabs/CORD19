@@ -15,5 +15,5 @@ Our ontology and SciBiteAI teams have used our software to produce sentence leve
 
 ## Possible use examples of this annotated dataset ##
 
-Identfying biomedical entities within sentences can be incredibly useful in narrowing down the curation space 
+Identfying biomedical entities within sentences can be incredibly useful in narrowing down the space of 26,000 documents that researchers or algorithms are required to look at. For instance, if a specific gene or phenotype is of interest, then this data can be easily used to find those documents which contain them. Building knowledge graphs 
 
