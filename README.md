@@ -1,5 +1,5 @@
 # CORD19
-### Sentence level annotations for the COVID-19 Open Research Dataset Challenge using biomedical ontologies ###
+### Sentence level annotations for the COVID-19 Open Research Dataset Challenge using biomedical ontologies from SciBite ###
 
 
 
