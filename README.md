@@ -10,8 +10,9 @@ In March 2020 in response to the COVID-19 pandemic, The White House, AI2, CZI, M
 
 Our ontology and SciBiteAI teams have used our software to produce sentence level annotations on this dataset to help those trying to identify biomedical entities within the text. The following have been identified
 
+
 Ontology Type | Total Hits | Unique Hits
------------- | -------------
+------------ | ------------- | -------------
 SPECIES | 2918832 | 3234
 GOONTOL - gene ontology terms | 1792505 | 7980
 INDICATION | 2796144 | 5222
