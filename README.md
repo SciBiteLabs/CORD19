@@ -1,4 +1,11 @@
 # COVID-19 Annotated Data v1.0
+
+As part of our efforts to help the community with the CORD-19 challenge, we have released several resources to help.
+
+1. Sentence level annotations for the COVID-19 Data
+1. Entity co-occurrence data within sentences
+1. Two vocabularies used in this work descriving coronavirus family and (specifically) COVID-19
+
 ### Sentence level annotations for the COVID-19 Open Research Dataset Challenge using biomedical ontologies from SciBite ###
 
 ## Overview ##
