@@ -4,7 +4,7 @@ As part of our efforts to help the community with the CORD-19 challenge, we have
 
 1. [Sentence level annotations for the COVID-19 Data](https://github.com/SciBiteLabs/CORD19/blob/master/README.md#sentence-level-annotations-for-the-covid-19-open-research-dataset-challenge-using-biomedical-ontologies-from-scibite)
 1. [Entity co-occurrence data within sentences](https://github.com/SciBiteLabs/CORD19/blob/master/README.md#entity-co-occurrence-data-within-sentences)
-1. Vocabularies used in this work describing coronavirus family and (specifically) COVID-19
+1. [Vocabularies used in this work describing coronavirus family and (specifically) COVID-19](https://github.com/SciBiteLabs/CORD19/blob/master/README.md#vocabularies-used-in-this-work-describing-coronavirus-family-and-specifically-covid-19)
 
 ## Sentence level annotations for the COVID-19 Open Research Dataset Challenge using biomedical ontologies from SciBite ##
 
