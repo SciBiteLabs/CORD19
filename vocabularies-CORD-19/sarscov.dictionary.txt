@@ -1,0 +1,664 @@
+############################################################################################################
+# SARS-CoV domain general terms
+#
+# A small vocabulary of concepts related to the above. 
+# Produced by SciBite Limited 2020
+# Distributed under GPL
+# Please retain this header in any copies of this file
+# Data, licence and information at https://scibite.info/cv19
+#
+# Format:
+# Identifier <tab> Primary Name <tab> Synonyms (separated by pipe characters)
+# Hash character (#) denotes a comment
+#
+# Please note: SciBite customers may obtain a version of this file suitable for use in TERMite, please
+# contact us via the helpdesk
+#
+############################################################################################################
+#identifier	name	syns
+GO_0099016	DNA end degradation evasion by virus	DNA end degradation evasion by virus
+GO_0099015	degradation of host chromosome by virus	degradation of host chromosome by virus
+GO_0098045	virus baseplate assembly	virus baseplate assembly
+NCBITaxon_511429	SARS coronavirus BJ182-12	SARS coronavirus BJ182-12
+NCBITaxon_237639	SARS coronavirus Taiwan TC1	SARS coronavirus Taiwan TC1
+VIR_0000004	zoonotic viral transmission	animal-to-human transmission | zoonotic transmission
+NCBITaxon_305405	SARS coronavirus A031	SARS coronavirus A031
+GO_0044423	virion part	virion part
+NCBITaxon_305406	SARS coronavirus B012	SARS coronavirus B012
+VIR_0000003	nosocomial viral transmission	nosocomial viral transmission
+NCBITaxon_305403	SARS coronavirus A021	SARS coronavirus A021
+VIR_0000002	human-to-human viral transmission	human-to-human transmission | human-to-human transmission of virus | human transmission
+VIR_0000001	SARS-CoV genome	SARS-CoV-2 genome | Severe acute respiratory syndrome coronavirus genome | Severe acute respiratory syndrome coronavirus 2 genome
+NCBITaxon_305404	SARS coronavirus A030	SARS coronavirus A030
+NCBITaxon_305409	SARS coronavirus B033	SARS coronavirus B033
+VIR_0000006	viral strain	viral strain
+NCBITaxon_305407	SARS coronavirus B024	SARS coronavirus B024
+NCBITaxon_305408	SARS coronavirus B029	SARS coronavirus B029
+GO_0044660	cytolysis by virus via pore formation in host cell membrane	cytolysis by virus via pore formation in host cell membrane
+VIR_0000005	time period	time period
+NCBITaxon_292360	SARS Coronavirus CDC#200301157	SARS Coronavirus CDC#200301157
+NCBITaxon_296840	SARS coronavirus PC4-199	SARS coronavirus PC4-199
+GO_0046729	viral procapsid	viral procapsid
+NCBITaxon_296841	SARS coronavirus PC4-241	SARS coronavirus PC4-241
+GO_0046727	capsomere	capsomer
+NCBITaxon_305412	SARS coronavirus C014	SARS coronavirus C014
+NCBITaxon_305413	SARS coronavirus C017	SARS coronavirus C017
+NCBITaxon_305410	SARS coronavirus B040	SARS coronavirus B040
+NCBITaxon_305411	SARS coronavirus C013	SARS coronavirus C013
+NCBITaxon_258445	SARS coronavirus GD69	SARS coronavirus GD69
+NCBITaxon_237640	SARS coronavirus Taiwan TC2	SARS coronavirus Taiwan TC2
+NCBITaxon_511430	SARS coronavirus BJ182-4	SARS coronavirus BJ182-4
+NCBITaxon_511431	SARS coronavirus BJ182-8	SARS coronavirus BJ182-8
+GO_0099018	restriction-modification system evasion by virus	restriction-modification system evasion by virus
+NCBITaxon_511432	SARS coronavirus BJ182a	SARS coronavirus BJ182a
+NCBITaxon_233044	SARS coronavirus GD01	SARS coronavirus GD01
+NCBITaxon_296839	SARS coronavirus PC4-145	SARS coronavirus PC4-145
+NCBITaxon_285947	SARS coronavirus civet014	SARS coronavirus civet014
+GO_0046734	passive induction of host cell-mediated immune response by virus	passive viral activation of cell-mediated immune response in host | passive viral induction of cell-mediated immune response in host | passive induction of cell-mediated immune response in host by virus
+NCBITaxon_285948	SARS coronavirus civet019	SARS coronavirus civet019
+GO_0046733	passive induction of host humoral immune response by virus	passive viral induction of humoral immune response in host | passive induction of humoral immune response in host by virus | passive viral activation of humoral immune response in host
+NCBITaxon_285945	Civet SARS CoV 007/2004	Civet SARS CoV 007/2004
+GO_0046732	active induction of host immune response by virus	active viral induction of host immune response
+NCBITaxon_285946	SARS coronavirus civet010	SARS coronavirus civet010
+GO_0046731	passive induction of host immune response by virus	passive viral induction of host immune response | passive activation of host immune response by virus
+GO_0046730	induction of host immune response by virus	activation of host immune response by virus
+NCBITaxon_741997	Bat SARS coronavirus HKU3-10	Bat SARS coronavirus HKU3-10
+NCBITaxon_741998	Bat SARS coronavirus HKU3-11	Bat SARS coronavirus HKU3-11
+NCBITaxon_741999	Bat SARS coronavirus HKU3-12	Bat SARS coronavirus HKU3-12
+GO_0046739	transport of virus in multicellular host	spread of virus within multicellular host | viral spread within multicellular host
+NCBITaxon_305401	SARS coronavirus A001	SARS coronavirus A001
+NCBITaxon_293321	SARS coronavirus GZ0403	SARS coronavirus GZ0403
+GO_0046738	active induction of innate immune response in host by virus	active viral induction of innate immune response in host
+NCBITaxon_305402	SARS coronavirus A013	SARS coronavirus A013
+GO_0046737	active induction of cell-mediated immune response in host by virus	active viral induction of cell-mediated immune response in host
+NCBITaxon_293320	SARS coronavirus PC4-205	SARS coronavirus PC4-205
+NCBITaxon_285949	SARS coronavirus civet020	SARS coronavirus civet020
+GO_0046736	active induction of humoral immune response in host by virus	active viral induction of humoral immune response in host
+GO_0046735	passive induction of host innate immune response by virus	passive viral activation of innate immune response in host | passive induction of innate immune response in host by virus | passive viral induction of innate immune response in host
+NCBITaxon_349344	Bat SARS CoV Rp3/2004	Bat SARS CoV Rp3/2004
+NCBITaxon_385684	SARS coronavirus CS24	SARS coronavirus CS24
+NCBITaxon_385683	SARS coronavirus CS21	SARS coronavirus CS21
+NCBITaxon_296837	SARS coronavirus PC4-115	SARS coronavirus PC4-115
+NCBITaxon_296838	SARS coronavirus PC4-137	SARS coronavirus PC4-137
+NCBITaxon_385687	SARS coronavirus WF188	SARS coronavirus WF188
+NCBITaxon_385686	SARS coronavirus ES260	SARS coronavirus ES260
+NCBITaxon_349342	Bat SARS coronavirus Rp1	Bat SARS coronavirus Rp1
+NCBITaxon_385685	SARS coronavirus ES191	SARS coronavirus ES191
+NCBITaxon_349343	Bat SARS coronavirus Rp2	Bat SARS coronavirus Rp2
+GO_0098026	virus tail, tube	virus tail, tube
+GO_0098027	virus tail, sheath	virus tail, sheath
+GO_0098024	virus tail, fiber	virus tail, fiber
+GO_0098025	virus tail, baseplate	virus tail, baseplate
+NCBITaxon_293319	SARS coronavirus PC4-127	SARS coronavirus PC4-127
+GO_0098022	viral capsid, fiber	viral capsid, fiber
+GO_0098023	virus tail, tip	virus tail, tip
+GO_0098021	viral capsid, decoration	viral capsid, decoration
+GO_0046745	viral capsid secondary envelopment	virus budding from ER membrane by viral capsid re-envelopment | viral budding from nuclear membrane by viral capsid re-envelopment | viral budding from Golgi membrane by viral capsid re-envelopment | viral budding from ER membrane by viral capsid re-envelopment | virus budding from outer nuclear membrane by viral capsid re-envelopment | viral budding from outer nuclear membrane during viral capsid re-envelopment | virus budding from Golgi membrane by viral capsid re-envelopment | viral budding from plasma membrane by viral capsid re-envelopment | virus budding from nuclear membrane by viral capsid re-envelopment | viral budding from inner nuclear membrane by viral capsid re-envelopment | virus budding from inner nuclear membrane by viral capsid re-envelopment | outer nuclear membrane viral budding during viral capsid re-envelopment | viral budding from outer nuclear membrane by viral capsid re-envelopment
+NCBITaxon_267389	SARS coronavirus Sin3725V	SARS coronavirus Sin3725V
+NCBITaxon_267388	SARS coronavirus Sin849	SARS coronavirus Sin849
+NCBITaxon_267387	SARS coronavirus Sin848	SARS coronavirus Sin848
+GO_0046741	transport of virus in host, tissue to tissue	viral spread within host, tissue to tissue | tissue to tissue spread of virus within host | spread of virus within host, tissue to tissue
+GO_0046740	transport of virus in host, cell to cell	spread of virus within host, cell to cell | cell to cell spread of virus within host | intercellular virus transport | viral spread within host, cell to cell
+NCBITaxon_267393	SARS coronavirus SinP4	SARS coronavirus SinP4
+NCBITaxon_267392	SARS coronavirus SinP3	SARS coronavirus SinP3
+NCBITaxon_267391	SARS coronavirus SinP2	SARS coronavirus SinP2
+NCBITaxon_267390	SARS coronavirus SinP1	SARS coronavirus SinP1
+NCBITaxon_267397	SARS coronavirus Sin847	SARS coronavirus Sin847
+NCBITaxon_267396	SARS coronavirus Sin846	SARS coronavirus Sin846
+NCBITaxon_267395	SARS coronavirus Sin845	SARS coronavirus Sin845
+NCBITaxon_267394	SARS coronavirus SinP5	SARS coronavirus SinP5
+GO_0098028	virus tail, shaft	virus tail, shaft
+GO_0098029	icosahedral viral capsid, spike	icosahedral viral capsid, spike
+NCBITaxon_511433	SARS coronavirus BJ182b	SARS coronavirus BJ182b
+GO_0098037	viral DNA genome packaging, 5' extended cos packaging	viral DNA genome packaging, 5' extended cos packaging
+GO_0099006	viral entry via permeabilization of endosomal membrane	viral entry via permeabilization of endosomal membrane
+GO_0098035	viral DNA genome packaging via site-specific sequence recognition	viral DNA genome packaging via site-specific sequence recognition
+GO_0098036	viral DNA genome packaging, 3' extended cos packaging	viral DNA genome packaging, 3' extended cos packaging
+GO_0099001	viral genome ejection through host cell envelope, long flexible tail mechanism	viral long flexible tail ejection system
+GO_0098033	icosahedral viral capsid, neck fiber	icosahedral viral capsid, neck fiber
+GO_0099002	viral genome ejection through host cell envelope, short tail mechanism	viral short tail ejection system
+GO_0098031	icosahedral viral capsid, collar	icosahedral viral capsid, collar
+NCBITaxon_255194	SARS coronavirus SoD	SARS coronavirus SoD
+GO_0099000	viral genome ejection through host cell envelope, contractile tail mechanism	viral contractile tail ejection system
+GO_0098032	icosahedral viral capsid, collar fiber	icosahedral viral capsid, collar fiber
+NCBITaxon_305416	SARS coronavirus C025	SARS coronavirus C025
+GO_0046755	viral budding	viral budding
+GO_0098030	icosahedral viral capsid, neck	icosahedral viral capsid, neck
+NCBITaxon_305417	SARS coronavirus C028	SARS coronavirus C028
+NCBITaxon_267399	SARS coronavirus Sin3408L	SARS coronavirus Sin3408L
+NCBITaxon_305414	SARS coronavirus C018	SARS coronavirus C018
+GO_0044696	killing by virus of host cell by post-segregational killing	killing by virus of host cell by PSK | killing by virus of host cell by toxin-antitoxin system
+GO_0046754	viral exocytosis	viral exocytosis
+GO_0046753	non-lytic viral release	non-lytic viral release
+NCBITaxon_267398	SARS coronavirus Sin850	SARS coronavirus Sin850
+NCBITaxon_305415	SARS coronavirus C019	SARS coronavirus C019
+GO_0044694	pore-mediated entry of viral genome into host cell	pore-mediated penetration of viral genome into host cell | viral genome translocation | viral entry via genome injection
+GO_0046752	viral capsid precursor transport to host cell nucleus	viral capsid precursor transport to host cell nucleus
+NCBITaxon_227984	SARS coronavirus Tor2	SARS coronavirus Tor2
+NCBITaxon_227860	SARS coronavirus Vietnam	SARS coronavirus Vietnam
+NCBITaxon_305418	SARS coronavirus C029	SARS coronavirus C029
+NCBITaxon_227861	SARS coronavirus Taiwan	SARS coronavirus Taiwan
+NCBITaxon_227859	SARS coronavirus	SARS coronavirus
+NCBITaxon_388737	SARS coronavirus GDH-BJH01	SARS coronavirus GDH-BJH01
+GO_0099009	viral genome circularization	viral genome circularization
+GO_0099008	viral entry via permeabilization of inner membrane	viral entry via permeabilization of inner membrane
+GO_0046765	viral budding from nuclear membrane	virus budding from nuclear membrane by viral capsid envelopment | virus budding from nuclear membrane | nuclear membrane viral budding
+GO_0046762	viral budding from ER membrane	virus budding from ER membrane | ER membrane viral budding | virus budding from ER membrane by viral capsid envelopment | endoplasmic reticulum membrane viral budding
+GO_0046761	viral budding from plasma membrane	plasma membrane viral budding | virus budding from plasma membrane | virus budding from plasma membrane by viral capsid envelopment
+GO_0046760	viral budding from Golgi membrane	Golgi membrane viral budding | virus budding from Golgi membrane
+NCBITaxon_1503299	BtRf-BetaCoV/JL2012	BtRf-BetaCoV/JL2012
+NCBITaxon_1503296	BtRf-BetaCoV/HeB2013	BtRf-BetaCoV/HeB2013
+GO_0046778	modification by virus of host mRNA processing	viral perturbation of host mRNA processing
+GO_0046776	suppression by virus of host antigen processing and presentation of peptide antigen via MHC class I	suppression by virus of host MHC class I cell surface presentation | negative regulation by virus of MHC class I cell surface presentation | inhibition of host MHC class I molecule presentation by virus | suppression by virus of MHC class I cell surface presentation in host
+GO_0046775	suppression by virus of host cytokine production	negative regulation by virus of host cytokine production
+NCBITaxon_260743	SARS coronavirus NS-1	SARS coronavirus NS-1
+GO_0046774	suppression by virus of host intracellular interferon activity	negative regulation by virus of intracellular interferon activity | suppression by virus of intracellular interferon activity in host
+GO_0046773	suppression by virus of host translation termination	viral inhibition of host cell protein biosynthesis shutoff | viral inhibition of termination of host cell protein biosynthesis | viral suppression of termination by host of host cell protein biosynthesis | viral inhibition of host cell protein biosynthetic process shutoff | viral inhibition of termination of host cell protein biosynthetic process | negative regulation by virus of host cell protein biosynthesis shutoff | negative regulation by virus of host cell protein biosynthetic process shutoff | viral suppression of termination by host of host cell protein biosynthetic process
+GO_0046772	viral budding from outer nuclear membrane	virus budding from outer nuclear membrane by viral capsid envelopment
+GO_0046771	viral budding from inner nuclear membrane	virus budding from inner nuclear membrane by viral capsid envelopment
+NCBITaxon_267386	SARS coronavirus Sin3765V	SARS coronavirus Sin3765V
+NCBITaxon_267385	SARS coronavirus Sin3408	SARS coronavirus Sin3408
+NCBITaxon_267384	SARS coronavirus Sin852	SARS coronavirus Sin852
+NCBITaxon_267383	SARS coronavirus Sin842	SARS coronavirus Sin842
+GO_0030683	evasion or tolerance by virus of host immune response	negative regulation by virus of extracellular antiviral response | suppression by virus of host intracellular antiviral response | suppression of host extracellular antiviral response by virus | suppression of host intracellular antiviral response by virus | negative regulation of host extracellular antiviral response by virus | suppression by virus of host extracellular antiviral response | viral inhibition of intracellular antiviral response | negative regulation by virus of intracellular antiviral response | inhibition of extracellular antiviral response | negative regulation of host intracellular antiviral response by virus
+NCBITaxon_235414	SARS coronavirus Sin2500	SARS coronavirus Sin2500
+NCBITaxon_235413	SARS coronavirus Sin2677	SARS coronavirus Sin2677
+NCBITaxon_235412	SARS coronavirus Sin2679	SARS coronavirus Sin2679
+NCBITaxon_235411	SARS coronavirus Sin2748	SARS coronavirus Sin2748
+NCBITaxon_235410	SARS coronavirus Sin2774	SARS coronavirus Sin2774
+GO_0016032	viral process	virus process
+GO_0046780	suppression by virus of host mRNA splicing	suppression by virus of host splicing factor activity | viral dispersion of host splicing factors | viral inhibition of host mRNA splicing | negative regulation by virus of host mRNA splicing
+GO_0046787	viral DNA repair	viral DNA repair
+GO_0098061	viral capsid, internal space	internal head protein
+GO_0046786	viral replication complex formation and maintenance	viral replication complex formation and maintenance
+GO_0046783	modification by virus of host polysomes	viral perturbation of polysomes
+GO_0044009	viral transmission by vector	viral transmission by vector
+GO_0046792	suppression by virus of host cell cycle arrest	viral inhibition of cell cycle arrest | negative regulation by virus of cell cycle arrest
+GO_0099045	viral extrusion	viral extrusion
+GO_0046799	recruitment of helicase-primase complex to DNA lesions	recruitment of helicase-primase complex to DNA lesions
+NCBITaxon_266147	SARS coronavirus Sin0409	SARS coronavirus Sin0409
+GO_0046798	viral portal complex	viral portal complex
+GO_0046797	viral procapsid maturation	capsid maturation | viral capsid maturation
+NCBITaxon_266148	SARS coronavirus Sin_WNV	SARS coronavirus Sin_WNV
+GO_0046794	transport of virus	viral transport
+GO_0046793	induction by virus of phosphorylation of host RNA polymerase II	virus-induced modification of host RNA polymerase II
+GO_0039599	cleavage by virus of host mRNA	host mRNA cleavage by viral endoribonuclease
+GO_0039593	suppression by virus of host exit from mitosis	inhibition of host mitotic exit by virus
+GO_0039594	endoribonuclease activity involved in viral induction of host mRNA catabolic process	endoribonuclease activity involved in viral induction of host mRNA catabolic process
+GO_0039591	suppression by virus of host tapasin activity	suppression by virus of host TAP binding protein | inhibition of host TAPBP by virus | inhibition of host tapasin by virus
+GO_0039592	suppression by virus of G2/M transition of host mitotic cell cycle	host G2/M cell cycle arrest by virus
+GO_0039597	induction by virus of host endoribonuclease activity	viral induction of host RNAse activity
+GO_0039595	induction by virus of catabolism of host mRNA	virus-mediated mRNA decay | promotion of host mRNA degradation | induction of host mRNA decay | induction by virus of host mRNA catabolic process | viral induction of host mRNA decay
+GO_0039596	modulation by virus of host protein dephosphorylation	modulation by virus of host protein dephosphorylation
+NCBITaxon_698419	SARS coronavirus wtic-MB	SARS coronavirus wtic-MB
+GO_0019064	fusion of virus membrane with host plasma membrane	viral envelope fusion with host cell membrane | viral envelope fusion with host membrane | viral envelope fusion with host plasma membrane
+GO_0019061	uncoating of virus	viral uncoating
+NCBITaxon_258971	SARS coronavirus TW8	SARS coronavirus TW8
+GO_0019062	virion attachment to host cell	viral absorption
+NCBITaxon_258970	SARS coronavirus TW7	SARS coronavirus TW7
+GO_0044828	negative regulation by host of viral genome replication	negative regulation by host of viral genome replication
+NCBITaxon_241183	SARS coronavirus BJ2232	SARS coronavirus BJ2232
+GO_0044825	retroviral strand transfer activity	strand transfer reaction
+NCBITaxon_338605	Bat SARS coronavirus HKU3-2	Bat SARS coronavirus HKU3-2
+GO_0044826	viral genome integration into host DNA	viral genome integration
+NCBITaxon_338606	Bat SARS coronavirus HKU3-3	Bat SARS coronavirus HKU3-3
+GO_0044823	retroviral integrase activity	retroviral integrase activity
+GO_0044824	retroviral 3' processing activity	3' processing reaction | 3'-processing activity
+NCBITaxon_258969	SARS coronavirus TW6	SARS coronavirus TW6
+NCBITaxon_258966	SARS coronavirus TW3	SARS coronavirus TW3
+NCBITaxon_258965	SARS coronavirus TW2	SARS coronavirus TW2
+GO_0019058	viral life cycle	viral life cycle
+NCBITaxon_258968	SARS coronavirus TW5	SARS coronavirus TW5
+NCBITaxon_258967	SARS coronavirus TW4	SARS coronavirus TW4
+GO_0019056	modulation by virus of host transcription	viral perturbation of host cell transcription | modification by virus of host transcription
+GO_0019057	modulation by virus of host translation	regulation of host mRNA translation by virus | viral perturbation of host cell mRNA translation | modulation of host translation by virus | modification by virus of host cell mRNA translation | regulation of translation in host by virus | regulation of host translation by virus
+NCBITaxon_258964	SARS coronavirus TW11	SARS coronavirus TW11
+GO_0019054	modulation by virus of host process	regulation of cellular process in host by virus | regulation of host cellular process by virus | viral host cell process manipulation | regulation by virus of host cellular process | modification by virus of host cellular process
+NCBITaxon_258963	SARS coronavirus TW10	SARS coronavirus TW10
+GO_0019055	modification by virus of host cell cycle regulation	viral perturbation of cell cycle regulation
+GO_0098689	latency-replication decision	reactivation of latent virus | proviral induction | proviral switch | lytic switch | Latency-replication switch
+GO_0019074	viral RNA genome packaging	viral RNA genome packaging
+GO_0019075	virus maturation	viral maturation
+GO_0019072	viral genome packaging	viral genome packaging
+GO_0019073	viral DNA genome packaging	viral DNA genome packaging
+GO_0019070	viral genome maturation	viral genome maturation
+GO_0019071	viral DNA cleavage involved in viral genome maturation	viral DNA cleavage involved in viral genome maturation
+GO_0044831	modulation by virus of host cytokine production	modulation by virus of host cytokine production
+GO_0044832	positive regulation by virus of host cytokine production	positive regulation by virus of host cytokine production
+GO_0044833	modulation by virus of host protein transport	modulation by virus of host protein transport
+GO_0019069	viral capsid assembly	viral capsid assembly
+NCBITaxon_421444	SARS coronavirus TJ01	SARS coronavirus TJ01
+GO_0019068	virion assembly	virion assembly and maintenance | virion organization | viral particle assembly | virus assembly | viral assembly | virus particle assembly
+GO_0019065	receptor-mediated endocytosis of virus by host cell	receptor-mediated endocytosis of virus by host | viral receptor mediated endocytosis | receptor mediated endocytosis of virus particle by host | virus receptor-mediated endocytosis by host | receptor mediated endocytosis of virus by host | receptor mediated endocytosis by host of virus particle
+GO_0019042	viral latency	phage lysogeny | viral dormancy | latent virus infection
+NCBITaxon_742000	Bat SARS coronavirus HKU3-13	Bat SARS coronavirus HKU3-13
+NCBITaxon_265124	SARS coronavirus cw037	SARS coronavirus cw037
+NCBITaxon_742001	Bat SARS coronavirus HKU3-4	Bat SARS coronavirus HKU3-4
+NCBITaxon_281976	SARS coronavirus GZ0401	SARS coronavirus GZ0401
+NCBITaxon_742002	Bat SARS coronavirus HKU3-5	Bat SARS coronavirus HKU3-5
+NCBITaxon_742003	Bat SARS coronavirus HKU3-6	Bat SARS coronavirus HKU3-6
+NCBITaxon_265125	SARS coronavirus xw002	SARS coronavirus xw002
+NCBITaxon_304858	SARS coronavirus A022	SARS coronavirus A022
+NCBITaxon_627440	SARS coronavirus ExoN1	SARS coronavirus ExoN1
+NCBITaxon_258508	SARS coronavirus ShanghaiQXC2	SARS coronavirus ShanghaiQXC2
+NCBITaxon_258507	SARS coronavirus ShanghaiQXC1	SARS coronavirus ShanghaiQXC1
+GO_0019038	provirus	provirus
+GO_0098669	superinfection exclusion	superinfection exclusion
+NCBITaxon_627442	SARS coronavirus P2	SARS coronavirus P2
+NCBITaxon_442736	Bat SARS coronavirus HKU3	Bat SARS coronavirus HKU3
+GO_0019033	viral tegument	viral tegument
+IDO_0000519	incubation period	viral incubation | incubation time | incubation
+NCBITaxon_347536	Bat SARS CoV Rm1/2004	Bat SARS CoV Rm1/2004
+GO_0098676	modulation of host virulence by virus	modulation of host virulence by virus
+GO_0098673	inhibition of host DNA replication by virus	inhibition of host DNA replication by virus
+GO_0019050	suppression by virus of host apoptotic process	suppression of apoptosis in host by virus | negative regulation by virus of host apoptosis | suppression by virus of host apoptosis | negative regulation of apoptosis by virus
+GO_0019051	induction by virus of host apoptotic process	activation of apoptosis in host by virus | activation by virus of host apoptosis | induction of apoptosis in host by virus | induction by virus of host apoptotic programmed cell death | activation by virus of host apoptotic programmed cell death
+GO_0098671	adhesion receptor-mediated virion attachment to host cell	viral attachment to host adhesion receptor
+GO_0098672	evasion by virus of CRISPR-cas system	CRISPR-cas system evasion by virus
+GO_0098670	entry receptor-mediated virion attachment to host cell	viral attachment to host entry receptor
+NCBITaxon_347537	Bat SARS CoV Rf1/2004	Bat SARS CoV Rf1/2004
+NCBITaxon_333387	Bat SARS coronavirus HKU3-1	Bat SARS coronavirus HKU3-1
+GO_0019049	evasion or tolerance of host defenses by virus	evasion or tolerance of host defenses by virus
+IDO_0000520	communicability period	communicability period
+GO_0019048	modulation by virus of host morphology or physiology	virus-host process | host-virus interaction | modulation by virus of host anatomical structure or process | viral-host process | modulation by virus of host anatomy or process | viral interaction with host
+GO_0019045	latent virus replication	latent virus replication
+NCBITaxon_258972	SARS coronavirus TW9	SARS coronavirus TW9
+GO_0019046	release from viral latency	release from viral latency
+GO_0019043	establishment of viral latency	lysogenic commitment
+GO_0098677	virion maturation	viral particle maturation
+GO_0019044	maintenance of viral latency	latent virus maintenance | prophage maintenance | provirus maintenance
+GO_0098678	viral tropism switching	viral tropism switching
+GO_0098004	virus tail fiber assembly	virus tail fiber assembly
+GO_0098005	viral head-tail joining	virus head-tail joining
+GO_0019020	multipartite viral genome	multipartite viral genome
+NCBITaxon_293936	SARS coronavirus PC4-227	SARS coronavirus PC4-227
+NCBITaxon_389166	Bat CoV 273/2005	Bat CoV 273/2005
+GO_0098002	receptor-mediated bacteriophage irreversible attachment to host cell	irreversible bacteriophage attachment, binding of host cell surface receptor
+GO_0098003	viral tail assembly	virus tail assembly
+NCBITaxon_389167	Bat CoV 279/2005	Bat CoV 279/2005
+NCBITaxon_293935	SARS coronavirus PC4-136	SARS coronavirus PC4-136
+GO_0098001	receptor-mediated bacteriophage reversible attachment to host cell	reversible bacteriophage attachment, binding of host cell surface receptor
+GO_0032359	provirus excision	prophage excision
+GO_0044863	modulation by virus of host cell division	regulation by virus of host cell division
+NCBITaxon_264374	SARS coronavirus TW-HP4	SARS coronavirus TW-HP4
+NCBITaxon_264373	SARS coronavirus TW-HP3	SARS coronavirus TW-HP3
+GO_0044864	positive regulation by virus of host cell division	positive regulation by virus of host cell division
+NCBITaxon_264376	SARS coronavirus TW-KC1	SARS coronavirus TW-KC1
+NCBITaxon_264375	SARS coronavirus TW-JC2	SARS coronavirus TW-JC2
+NCBITaxon_264378	SARS coronavirus TW-GD1	SARS coronavirus TW-GD1
+NCBITaxon_264377	SARS coronavirus TW-KC3	SARS coronavirus TW-KC3
+NCBITaxon_264379	SARS coronavirus TW-GD2	SARS coronavirus TW-GD2
+GO_0046807	viral scaffold assembly and maintenance	viral scaffold assembly and maintenance
+NCBITaxon_1508227	Bat SARS-like coronavirus	Bat SARS-like coronavirus
+GO_0046806	viral scaffold	viral scaffold
+NCBITaxon_264381	SARS coronavirus TW-GD4	SARS coronavirus TW-GD4
+NCBITaxon_264380	SARS coronavirus TW-GD3	SARS coronavirus TW-GD3
+GO_0046802	exit of virus from host cell nucleus by nuclear egress	nuclear egress | nuclear egress of viral procapsid | capsid egress
+NCBITaxon_264383	SARS coronavirus TW-YM1	SARS coronavirus TW-YM1
+GO_0044865	negative regulation by virus of host cell division	negative regulation by virus of host cell division
+GO_0019018	bipartite viral genome	bipartite viral genome
+IDO_0000593	transmission period	transmission period
+NCBITaxon_264382	SARS coronavirus TW-GD5	SARS coronavirus TW-GD5
+GO_0019019	tripartite viral genome	tripartite viral genome
+GO_0019016	non-segmented viral genome	non-segmented viral genome
+GO_0019017	segmented viral genome	segmented viral genome
+GO_0001618	virus receptor activity	viral receptor activity
+GO_0019015	viral genome	viral genome
+NCBITaxon_293934	SARS coronavirus PC4-13	SARS coronavirus PC4-13
+NCBITaxon_230471	SARS coronavirus ZJ01	SARS coronavirus ZJ01
+GO_0019013	viral nucleocapsid	nucleocapsid
+NCBITaxon_293933	SARS coronavirus GZ0402	SARS coronavirus GZ0402
+GO_0098006	viral DNA genome packaging, headful	viral DNA genome packaging, headful
+GO_0098015	virus tail	virus tail
+GO_0019030	icosahedral viral capsid	quasispherical viral capsid
+GO_0019031	viral envelope	viral outside membrane
+NCBITaxon_264385	SARS coronavirus TW-YM3	SARS coronavirus TW-YM3
+NCBITaxon_264384	SARS coronavirus TW-YM2	SARS coronavirus TW-YM2
+NCBITaxon_240273	SARS coronavirus ZMY 1	SARS coronavirus ZMY 1
+NCBITaxon_264387	SARS coronavirus TW-PH1	SARS coronavirus TW-PH1
+NCBITaxon_264386	SARS coronavirus TW-YM4	SARS coronavirus TW-YM4
+NCBITaxon_264388	SARS coronavirus TW-PH2	SARS coronavirus TW-PH2
+NCBITaxon_391355	SARS coronavirus Frankfurt1-v01	SARS coronavirus Frankfurt1-v01
+GO_0046815	genome retention in viral capsid	genome retention in viral capsid
+NCBITaxon_742004	Bat SARS coronavirus HKU3-7	Bat SARS coronavirus HKU3-7
+GO_0046814	coreceptor-mediated virion attachment to host cell	virion attachment, binding of host cell surface coreceptor
+NCBITaxon_742005	Bat SARS coronavirus HKU3-8	Bat SARS coronavirus HKU3-8
+GO_0046813	receptor-mediated virion attachment to host cell	virion attachment, binding of host cell surface receptor
+NCBITaxon_742006	Bat SARS coronavirus HKU3-9	Bat SARS coronavirus HKU3-9
+GO_0019029	helical viral capsid	helical viral capsid
+GO_0019027	ambisense viral genome	ambisense viral genome
+GO_0019028	viral capsid	viral capsid
+GO_0019025	positive sense viral genome	positive sense viral genome
+GO_0019026	negative sense viral genome	negative sense viral genome
+GO_0019023	dsRNA viral genome	dsRNA viral genome
+GO_0019024	ssRNA viral genome	ssRNA viral genome
+NCBITaxon_233872	SARS coronavirus TWC	SARS coronavirus TWC
+GO_0019021	DNA viral genome	DNA viral genome
+GO_0098017	viral capsid, major subunit	major capsomere
+GO_0098018	viral capsid, minor subunit	minor capsomere
+GO_0019022	RNA viral genome	RNA viral genome
+NCBITaxon_1487703	Rhinolophus affinis coronavirus	Rhinolophus affinis coronavirus
+NCBITaxon_299335	SARS coronavirus B039	SARS coronavirus B039
+NCBITaxon_722424	SARS coronavirus Rs_672/2006	SARS coronavirus Rs_672/2006
+NCBITaxon_291613	SARS coronavirus GD322	SARS coronavirus GD322
+GO_0110087	suppression by virus of host protease activator activity	suppression by virus of host protease activator activity
+NCBITaxon_694009	Severe acute respiratory syndrome-related coronavirus	Severe acute respiratory syndrome-related coronavirus
+GO_0046718	viral entry into host cell	phage translocation | virus entry into host cell | entry of virus into host cell | virion penetration | viral penetration | virion penetration into host cell
+NCBITaxon_264370	SARS coronavirus TW	SARS coronavirus TW
+NCBITaxon_312027	SARS coronavirus WH20	SARS coronavirus WH20
+GO_0044659	cytolysis by virus of host cell	viral release by cell lysis | lytic viral release | viral release by host cell lysis
+NCBITaxon_264372	SARS coronavirus TW-HP2	SARS coronavirus TW-HP2
+NCBITaxon_264371	SARS coronavirus TW-HP1	SARS coronavirus TW-HP1
+NCBITaxon_2042698	SARS-related betacoronavirus Rp3/2004	SARS-related betacoronavirus Rp3/2004
+NCBITaxon_2042697	SARS-related bat coronavirus RsSHC014	SARS-related bat coronavirus RsSHC014
+NCBITaxon_256753	SARS coronavirus GZ02	SARS coronavirus GZ02
+GO_0075720	establishment of episomal latency	establishment of plasmid latency
+GO_0075606	transport of viral material towards nucleus	viral genome transport to host cell nucleus | cytoplasmic inwards viral transport | transport of viral material to nucleus
+GO_0039629	T=219 icosahedral capsid	T=219 icosahedral capsid
+GO_0039508	suppression by virus of host receptor activity	downregulation by virus of host receptor activity | suppression by virus of host receptor function | negative regulation by virus of host receptor activity | down-regulation by virus of host receptor activity | viral inhibition of host receptor
+GO_0039509	suppression by virus of host pattern recognition receptor activity	down regulation by virus of host pattern recognition receptor activity | negative regulation by virus of host pattern recognition receptor activity | down-regulation by virus of host pattern recognition receptor activity | suppression by virus of host pattern recognition receptor function
+GO_0039502	suppression by virus of host type I interferon-mediated signaling pathway	negative regulation by virus of host type I interferon-mediated signaling pathway | suppression by virus of host type I interferon-mediated signalling pathway | suppression by virus of host type I IFN-mediated signaling pathway
+GO_0039623	T=25 icosahedral viral capsid	T=25 icosahedral viral capsid
+GO_0039503	suppression by virus of host innate immune response	inhibition of host innate immune response by virus | suppression by virus of host innate immunity | negative regulation by virus of host innate immune response | negative regulation by virus of host innate immunity
+GO_0039624	viral outer capsid	outer capsid
+GO_0039621	T=13 icosahedral viral capsid	T=13 icosahedral viral capsid
+NCBITaxon_249069	SARS coronavirus HSZ-A	SARS coronavirus HSZ-A
+NCBITaxon_249068	SARS coronavirus HSZ2-A	SARS coronavirus HSZ2-A
+GO_0039501	suppression by virus of host type I interferon production	negative regulation by virus of host type I interferon production | suppression by virus of host interferon type I production | suppression by virus of host type I IFN production
+GO_0039622	T=16 icosahedral viral capsid	T=16 icosahedral viral capsid
+NCBITaxon_229206	SARS coronavirus CUHK-Su10	SARS coronavirus CUHK-Su10
+NCBITaxon_249067	SARS coronavirus HGZ8L1-B	SARS coronavirus HGZ8L1-B
+GO_0039506	modulation by virus of host molecular function	modification by virus of host protein function
+GO_0039627	T=147 icosahedral capsid	T=147 icosahedral capsid
+NCBITaxon_249066	SARS coronavirus HGZ8L1-A	SARS coronavirus HGZ8L1-A
+GO_0039507	suppression by virus of host molecular function	negative regulation by virus of host molecular function | down regulation by virus of host protein function | negative regulation by virus of host protein function | down-regulation by virus of host protein function
+GO_0039628	T=169 icosahedral viral capsid	T=169 icosahedral capsid
+NCBITaxon_249065	SARS coronavirus GZ-D	SARS coronavirus GZ-D
+GO_0039504	suppression by virus of host adaptive immune response	negative regulation by virus of host adaptive immunity | suppression by virus of host acquired immune response | inhibition of host adaptive immune response by virus | negative regulation by virus of host adaptive immune response
+GO_0039625	viral inner capsid	inner capsid
+GO_0039505	suppression by virus of host antigen processing and presentation of peptide antigen via MHC class II	suppression by virus of host antigen processing and presentation of peptide antigen via MHC class II
+GO_0039626	viral intermediate capsid	intermediate capsid
+NCBITaxon_249064	SARS coronavirus GZ-C	SARS coronavirus GZ-C
+NCBITaxon_231522	SARS coronavirus GZ50	SARS coronavirus GZ50
+NCBITaxon_249063	SARS coronavirus GZ-B	SARS coronavirus GZ-B
+NCBITaxon_249062	SARS coronavirus GZ-A	SARS coronavirus GZ-A
+GO_0034290	holin activity	holin activity
+GO_0034291	canonical holin activity	canonical holin activity
+NCBITaxon_231520	SARS coronavirus HKU-65806	SARS coronavirus HKU-65806
+NCBITaxon_231521	SARS coronavirus HKU-66078	SARS coronavirus HKU-66078
+GO_0034292	pinholin activity	pinholin activity
+NCBITaxon_253435	SARS coronavirus PUMC03	SARS coronavirus PUMC03
+GO_0036472	suppression by virus of host protein-protein interaction	suppression by virus of host protein interaction | suppression by virus of host protein binding | suppression by virus of host protein:protein binding | suppression by virus of host protein:protein interaction
+GO_0039620	T=7 icosahedral viral capsid	T=7 icosahedral viral capsid
+NCBITaxon_253434	SARS coronavirus PUMC02	SARS coronavirus PUMC02
+NCBITaxon_253433	SARS coronavirus PUMC01	SARS coronavirus PUMC01
+GO_0006948	induction by virus of host cell-cell fusion	induction by virus of cell-cell fusion in host | viral-induced cell-cell fusion | viral-induced host cell-cell fusion
+NCBITaxon_255730	SARS coronavirus Sino1-11	SARS coronavirus Sino1-11
+NCBITaxon_285267	SARS coronavirus HHS-2004	SARS coronavirus HHS-2004
+GO_0075713	establishment of integrated proviral latency	prophage integration | provirus integration
+GO_0039618	T=pseudo3 icosahedral viral capsid	T=pseudo3 icosahedral viral capsid
+GO_0039619	T=4 icosahedral viral capsid	T=4 icosahedral viral capsid
+GO_0039612	modulation by virus of host protein phosphorylation	modulation by virus of host protein phosphorylation
+NCBITaxon_255729	SARS coronavirus Sino3-11	SARS coronavirus Sino3-11
+GO_0039613	suppression by virus of host protein phosphorylation	viral inhibition of host protein phosphorylation
+NCBITaxon_1503300	BtRf-BetaCoV/SX2013	BtRf-BetaCoV/SX2013
+GO_0039611	suppression by virus of host translation initiation factor activity	suppression by virus of host EIF-4E activity | inhibition of activity of host translation initiation factor
+GO_0039616	T=2 icosahedral viral capsid	T=2 icosahedral viral capsid
+NCBITaxon_1503302	BtRs-BetaCoV/HuB2013	BtRs-BetaCoV/HuB2013
+GO_0039617	T=3 icosahedral viral capsid	T=3 icosahedral viral capsid
+NCBITaxon_1503301	BtRs-BetaCoV/GX2013	BtRs-BetaCoV/GX2013
+GO_0039614	induction by virus of host protein phosphorylation	induction by virus of host protein phosphorylation
+NCBITaxon_1503303	BtRs-BetaCoV/YN2013	BtRs-BetaCoV/YN2013
+NCBITaxon_698398	recombinant SARSr-CoV	recombinant SARSr-CoV
+GO_0039615	T=1 icosahedral viral capsid	T=1 icosahedral viral capsid
+GO_0075502	endosome membrane permeabilization involved in viral entry into host cell	endosome membrane permeabilization involved in viral entry into host cell
+GO_0075503	fusion of virus membrane with host macropinosome membrane	viral entry into host cell via macropinocytosis followed by membrane fusion with the endosome membrane
+GO_0075504	macropinosomal membrane permeabilization involved in viral entry into host cell	macropinosomal membrane permeabilization involved in viral entry into host cell
+GO_0075505	entry of intact viral capsid into host nucleus through nuclear pore complex	entry of intact viral capsid into host nucleus through nuclear pore complex
+GO_0075506	entry of viral genome into host nucleus through nuclear pore complex via importin	entry of viral genome into host nucleus via cellular importin transport through the nuclear pore complex
+GO_0075507	entry of viral genome into host nucleus via docking of viral capsid to the nuclear pore complex and injection of viral genome	entry of viral genome into host nucleus via docking of viral capsid to the nuclear pore complex and injection of viral genome
+GO_0075508	entry of viral genome into host nucleus via retainment of capsid in nuclear pore complex and release of genome into nucleoplasm	entry of viral genome into host nucleus via attachment of capsid to nuclear pore complex and release of genome into nucleoplasm
+GO_0075509	endocytosis involved in viral entry into host cell	virus endocytosis by host | viral penetration via endocytosis followed by endosome disruption
+NCBITaxon_353145	SARS coronavirus ZJ02	SARS coronavirus ZJ02
+GO_0039722	suppression by virus of host toll-like receptor signaling pathway	inhibition of host TLR pathway by virus | suppression by virus of host TLR signaling pathway
+GO_0039602	suppression by virus of host transcription initiation from RNA polymerase II promoter	inhibition of host transcription initiation by virus | suppression by virus of host DNA-dependent transcription, initiation
+GO_0039723	suppression by virus of host TBK1 activity	inhibition of host TBK1 by virus
+GO_0039600	induction by virus of host endonucleolytic cleavage-dependent mRNA catabolic process	induction by virus of host endonucleolytic cleavage-dependent mRNA decay | induction by virus of host nuclear-transcribed mRNA catabolic process, endonucleolytic cleavage-dependent decay
+NCBITaxon_249089	SARS coronavirus HZS2-Bb	SARS coronavirus HZS2-Bb
+GO_0039606	suppression by virus of host translation initiation	suppression by virus of host translation initiation
+NCBITaxon_249088	SARS coronavirus ZS-C	SARS coronavirus ZS-C
+NCBITaxon_249087	SARS coronavirus LC5	SARS coronavirus LC5
+GO_0060139	positive regulation of apoptotic process by virus	positive regulation of apoptotic process by virus
+GO_0036338	viral membrane	viral membrane
+GO_0039724	suppression by virus of host IKBKE activity	inhibition of host IKBKE by virus
+GO_0039604	suppression by virus of host translation	viral shutoff of host protein synthesis | host translation shutoff by virus | viral inhibition of cellular protein synthesis
+NCBITaxon_249086	SARS coronavirus LC4	SARS coronavirus LC4
+NCBITaxon_249085	SARS coronavirus LC3	SARS coronavirus LC3
+NCBITaxon_249084	SARS coronavirus LC2	SARS coronavirus LC2
+NCBITaxon_249083	SARS coronavirus LC1	SARS coronavirus LC1
+NCBITaxon_249082	SARS coronavirus ZS-A	SARS coronavirus ZS-A
+NCBITaxon_249081	SARS coronavirus ZS-B	SARS coronavirus ZS-B
+NCBITaxon_249080	SARS coronavirus HSZ-Cc	SARS coronavirus HSZ-Cc
+GO_0075732	viral penetration into host nucleus	viral import into host nucleus | viral entry into host nucleus
+GO_0075733	intracellular transport of virus	viral genome transport in host cell | movement of virus within host cell | egress of virus within host cell | intracellular transport of viral material
+GO_1903652	modulation by virus of host cytoplasmic transport	regulation by virus of host cytoplasmic streaming | regulation by virus of host cytoplasmic transport | viral modulation of host cytoplasmic trafficking
+GO_0039711	cytoplasmic helical capsid assembly	cytoplasmic helical capsid assembly
+GO_0039712	induction by virus of host catalytic activity	induction by virus of host enzyme activity
+GO_0039710	cytoplasmic icosahedral capsid assembly	cytoplasmic icosahedral capsid assembly
+NCBITaxon_249079	SARS coronavirus HSZ-Bc	SARS coronavirus HSZ-Bc
+NCBITaxon_249078	SARS coronavirus HGZ8L2	SARS coronavirus HGZ8L2
+NCBITaxon_249077	SARS coronavirus HZS2-C	SARS coronavirus HZS2-C
+NCBITaxon_249076	SARS coronavirus HZS2-Fc	SARS coronavirus HZS2-Fc
+NCBITaxon_249075	SARS coronavirus HZS2-E	SARS coronavirus HZS2-E
+NCBITaxon_249074	SARS coronavirus HZS2-D	SARS coronavirus HZS2-D
+GO_0050690	regulation of defense response to virus by virus	regulation by virus of antiviral response | regulation of antiviral response by virus | viral regulation of antiviral response
+NCBITaxon_249073	SARS coronavirus JMD	SARS coronavirus JMD
+NCBITaxon_249072	SARS coronavirus HZS2-Fb	SARS coronavirus HZS2-Fb
+NCBITaxon_249071	SARS coronavirus HSZ-Cb	SARS coronavirus HSZ-Cb
+NCBITaxon_249070	SARS coronavirus HSZ-Bb	SARS coronavirus HSZ-Bb
+GO_0075522	IRES-dependent viral translational initiation	IRES-dependent viral translational initiation
+GO_0075523	viral translational frameshifting	ribosomal frameshifting involved in viral translation
+GO_0075524	ribosomal skipping	ribosomal skipping
+GO_0075525	viral translational termination-reinitiation	viral translation involving termination re-initiation | termination reinitiation involved in viral translation | viral translation involving termination-reinitiation | viral translation involving translational stop-start
+GO_0075526	cap snatching	cap snatching involved in viral mRNA transcription
+GO_0075527	viral RNA editing	RNA editing involved in viral mRNA transcription
+GO_0075528	modulation by virus of host immune response	regulation by virus of host immune system process
+GO_0075529	establishment of latency as a circular episome	establishment of circular plasmid latency | establishment of latency as a circular plasmid
+GO_0039708	nuclear capsid assembly	nuclear capsid assembly
+GO_0039709	cytoplasmic capsid assembly	cytoplasmic capsid assembly
+GO_0039707	pore formation by virus in membrane of host cell	pore formation in membrane of host cell by virus
+NCBITaxon_242743	SARS coronavirus FRA	SARS coronavirus FRA
+GO_0060153	modulation by virus of host cell cycle	regulation of host cell cycle by virus | viral process regulating host cell cycle | modulation of host cell cycle by virus | regulation by virus of host cell cycle
+GO_0039700	fusion of viral membrane with host outer nuclear membrane	fusion of viral membrane with host outer nuclear membrane involved in nuclear egress | viral primary envelope fusion with host outer nuclear membrane
+GO_0039701	microtubule-dependent intracellular transport of viral material towards cell periphery	microtubule-dependent intracellular transport of viral material towards cell periphery
+NCBITaxon_253634	SARS coronavirus HB	SARS coronavirus HB
+GO_0039704	viral translational shunt	ribosomal shunt initiation pathway
+GO_0039705	viral translational readthrough	viral stop codon readthrough
+GO_0039702	viral budding via host ESCRT complex	viral budding via host ESCRT complex
+GO_0075520	actin-dependent intracellular transport of virus	actin-dependent intracellular transport of viral material
+GO_0075521	microtubule-dependent intracellular transport of viral material towards nucleus	microtubule-dependent intracellular transport of viral material to nucleus
+GO_0075511	macropinosome lysis involved in viral entry into host cell	macropinosome lysis involved in viral entry into host cell
+NCBITaxon_321149	SARS coronavirus BJ202	SARS coronavirus BJ202
+GO_0075512	clathrin-dependent endocytosis of virus by host cell	viral penetration via clathrin-mediated endocytosis | clathrin-mediated endocytosis of virus by host cell
+GO_0075513	caveolin-mediated endocytosis of virus by host cell	viral penetration via caveolae-mediated endocytosis followed by endosome disruption | viral entry into host cell via caveolae-mediated endocytosis
+GO_0075514	endosome lysis involved in viral entry into host cell	viral entry into host cell via caveolae-mediated endocytosis followed by endosome lysis
+NCBITaxon_321147	SARS coronavirus BJ162	SARS coronavirus BJ162
+GO_0075519	microtubule-dependent intracellular transport of viral material	microtubule-dependent intracellular transport of viral material
+NCBITaxon_240550	SARS coronavirus TWJ	SARS coronavirus TWJ
+NCBITaxon_228330	SARS coronavirus Urbani	SARS coronavirus Urbani
+GO_0060140	modulation by virus of syncytium formation via plasma membrane fusion	modulation by virus of syncytium formation via plasma membrane fusion
+GO_0060141	positive regulation of syncytium formation by virus	syncytium formation induced by viral infection
+NCBITaxon_240553	SARS coronavirus TWY	SARS coronavirus TWY
+NCBITaxon_240552	SARS coronavirus TWS	SARS coronavirus TWS
+NCBITaxon_240551	SARS coronavirus TWK	SARS coronavirus TWK
+NCBITaxon_260069	SARS coronavirus HC/SZ/61/03	SARS coronavirus HC/SZ/61/03
+NCBITaxon_230522	SARS coronavirus Taiwan JC-2003	SARS coronavirus Taiwan JC-2003
+NCBITaxon_252654	SARS coronavirus BJ302	SARS coronavirus BJ302
+GO_0075510	macropinocytosis involved in viral entry into host cell	macropinocytosis involved in viral entry into host cell
+GO_0019085	early viral transcription	early viral transcription
+GO_0019086	late viral transcription	late viral transcription
+GO_0019083	viral transcription	viral transcription
+NCBITaxon_262338	SARS coronavirus GD03T0013	SARS coronavirus GD03T0013
+GO_0019084	middle viral transcription	middle viral transcription
+GO_0019081	viral translation	viral protein synthesis | viral protein biosynthetic process | viral protein biosynthesis | viral protein formation | viral protein anabolism
+GO_0019082	viral protein processing	viral protein processing
+GO_0019080	viral gene expression	viral genome expression
+NCBITaxon_264990	SARS coronavirus sf098	SARS coronavirus sf098
+NCBITaxon_239242	SARS coronavirus CUHK-AG02	SARS coronavirus CUHK-AG02
+NCBITaxon_239241	SARS coronavirus CUHK-AG01	SARS coronavirus CUHK-AG01
+NCBITaxon_239243	SARS coronavirus CUHK-AG03	SARS coronavirus CUHK-AG03
+NCBITaxon_1283333	Bat coronavirus Cp/Yunnan2011	Bat coronavirus Cp/Yunnan2011
+GO_0019079	viral genome replication	viral genome replication
+NCBITaxon_1283332	Bat coronavirus Rp/Shaanxi2011	Bat coronavirus Rp/Shaanxi2011
+GO_0019076	viral release from host cell	viral release | viral exit | virus exit from host cell | viral shedding | release of virus from host
+GO_0098994	disruption of host cell envelope during viral entry	disruption of host cell envelope during viral entry
+GO_0098995	disruption by virus of host envelope lipopolysaccharide during virus entry	degradation of host lipopolysaccharide during virus entry | degradation of host cell envelope lipopolysaccharide during viral entry
+NCBITaxon_231519	SARS coronavirus HKU-36871	SARS coronavirus HKU-36871
+NCBITaxon_231517	SARS coronavirus GZ43	SARS coronavirus GZ43
+NCBITaxon_231518	SARS coronavirus GZ60	SARS coronavirus GZ60
+NCBITaxon_231515	Civet SARS CoV SZ16/2003	Civet SARS CoV SZ16/2003
+NCBITaxon_231516	SARS coronavirus SZ1	SARS coronavirus SZ1
+NCBITaxon_231513	Civet SARS CoV SZ3/2003	Civet SARS CoV SZ3/2003
+NCBITaxon_231514	SARS coronavirus SZ13	SARS coronavirus SZ13
+GO_0019089	transmission of virus	viral transmission
+GO_0075530	establishment of latency as a linear episome	establishment of latency as a linear plasmid | establishment of linear plasmid latency
+GO_0019087	transformation of host cell by virus	viral transformation | viral transformation of host cell
+GO_0098996	disruption of host cell glycocalyx during viral entry	degradation of host glycocalyx during viral entry | degradation of host capsule during virus entry | catabolism of host glycocalyx during viral entry | disassembly of glycocalyx during viral entry
+GO_0019088	immortalization of host cell by virus	viral immortalization
+GO_0098997	fusion of virus membrane with host outer membrane	viral envelope fusion with host outer membrane
+NCBITaxon_235173	SARS coronavirus Shanhgai LY	SARS coronavirus Shanhgai LY
+NCBITaxon_1699361	Bat SARS-like coronavirus YNLF_34C	Bat SARS-like coronavirus YNLF_34C
+NCBITaxon_1699360	Bat SARS-like coronavirus YNLF_31C	Bat SARS-like coronavirus YNLF_31C
+GO_0039588	suppression by virus of host antigen processing and presentation	inhibition of host proteasome antigen processing by virus
+GO_0055036	virion membrane	virion membrane
+GO_0039580	suppression by virus of host PKR activity	suppression by virus of host EIF2AK2 activity
+GO_0039586	modulation by virus of host PP1 activity	modulation of host PP1 activity by virus | regulation by virus of host PP1 activity
+GO_0039587	suppression by virus of host tetherin activity	inhibition of host BST2/Tetherin by virus | suppression by virus of host BST-2 activity
+GO_0039584	suppression by virus of host protein kinase activity	suppression by virus of host protein kinase activity
+NCBITaxon_264989	SARS coronavirus cw049	SARS coronavirus cw049
+NCBITaxon_264988	SARS coronavirus sf099	SARS coronavirus sf099
+GO_0008979	prophage integrase activity	integrase activity involved in establishment of integrated proviral latency
+NCBITaxon_247149	SARS coronavirus WHU	SARS coronavirus WHU
+NCBITaxon_228406	SARS coronavirus BJ02	SARS coronavirus BJ02
+GO_0039579	suppression by virus of host ISG15 activity	suppression by virus of host ISG15 activity
+NCBITaxon_228404	SARS coronavirus HKU-39849	SARS coronavirus HKU-39849
+NCBITaxon_248485	SARS coronavirus AS	SARS coronavirus AS
+GO_0039699	viral mRNA cap methylation	IFIT mRNA restriction evasion by virus
+NCBITaxon_228409	SARS coronavirus BJ03	SARS coronavirus BJ03
+NCBITaxon_228407	SARS coronavirus BJ01	SARS coronavirus BJ01
+GO_0039692	single stranded viral RNA replication via double stranded DNA intermediate	retroviral genome replication
+GO_0039693	viral DNA genome replication	DNA-dependent viral DNA replication | viral DNA replication | viral DNA-dependent DNA replication
+GO_0039690	positive stranded viral RNA replication	positive stranded viral RNA replication
+GO_0039691	double stranded viral RNA replication	double stranded viral RNA replication
+GO_0039696	RNA-templated viral transcription	RNA-templated viral transcription
+GO_0039697	negative stranded viral RNA transcription	negative stranded viral RNA transcription
+GO_0039576	suppression by virus of host JAK1 activity	negative regulation by virus of host JAK | suppression by virus of host janus kinase 1 activity
+GO_0039573	suppression by virus of host complement activation	inhibition of host complement cascade by virus | inhibition of host complement activation by virus
+GO_0039694	viral RNA genome replication	viral RNA genome replication
+GO_0039574	suppression by virus of host TYK2 activity	suppression by virus of host non-receptor tyrosine-protein kinase TYK2 activity
+GO_0039695	DNA-templated viral transcription	DNA-templated viral transcription
+NCBITaxon_1431340	SARS bat coronavirus	SARS bat coronavirus
+NCBITaxon_240549	SARS coronavirus TWH	SARS coronavirus TWH
+NCBITaxon_229993	SARS coronavirus TW1	SARS coronavirus TW1
+NCBITaxon_229992	SARS coronavirus Frankfurt 1	SARS coronavirus Frankfurt 1
+GO_0039689	negative stranded viral RNA replication	(-)ss viral RNA replication
+NCBITaxon_228415	SARS coronavirus CUHK-W1	SARS coronavirus CUHK-W1
+GO_0039687	viral DNA strand displacement replication	viral DNA strand displacement replication
+GO_0039688	viral double stranded DNA replication via reverse transcription	dsDNA replication via RNA intermediate | viral RNA-dependent DNA replication
+GO_0039560	suppression by virus of host IRF9 activity	inhibition of host IRF9 by virus | inhibition of host interferon regulatory factor-9 by virus | suppression by virus of host interferon regulatory factor 9 activity
+GO_0039682	rolling circle viral DNA replication	rolling circle viral DNA replication
+GO_0039680	actin-dependent intracellular transport of virus towards nucleus	actin-dependent inwards viral transport | actin-dependent intracellular transport of viral material towards nucleus
+GO_0039564	suppression by virus of host STAT2 activity	Inhibition of host STAT2 by virus
+GO_0039685	rolling hairpin viral DNA replication	ssDNA rolling hairpin viral DNA replication
+GO_0039686	bidirectional double-stranded viral DNA replication	viral bidirectional dsDNA replication
+GO_0039562	suppression by virus of host STAT activity	suppression by virus of host signal transducer and activator of transcription activity
+NCBITaxon_1415852	Bat SARS-like coronavirus WIV1	Bat SARS-like coronavirus WIV1
+GO_0039683	rolling circle double-stranded viral DNA replication	dsDNA rolling circle replication
+GO_0039563	suppression by virus of host STAT1 activity	suppression by virus of host STAT1 activity
+GO_0039684	rolling circle single-stranded viral DNA replication	ssDNA rolling circle replication
+NCBITaxon_1415851	Bat SARS-like coronavirus RsSHC014	Bat SARS-like coronavirus RsSHC014
+NCBITaxon_284672	SARS coronavirus TJF	SARS coronavirus TJF
+NCBITaxon_243925	SARS coronavirus HPZ-2003	SARS coronavirus HPZ-2003
+NCBITaxon_241628	SARS coronavirus TWC2	SARS coronavirus TWC2
+NCBITaxon_235088	SARS coronavirus HSR 1	SARS coronavirus HSR 1
+NCBITaxon_241629	SARS coronavirus TWC3	SARS coronavirus TWC3
+NCBITaxon_344702	SARS coronavirus ZJ0301	SARS coronavirus ZJ0301
+GO_0039557	suppression by virus of host IRF7 activity	inhibition of host IRF7 by virus | suppression by virus of host interferon regulatory factor 7 activity | inhibition of host interferon regulatory factor-7 by virus
+GO_0039678	viral genome ejection through host cell envelope	viral genome ejection through host cell envelope
+GO_0039677	exit of virus from host cell nucleus via nuclear envelope disassembly	exit of virus from host cell nucleus via nuclear envelope breakdown
+GO_0039670	viral capsid, turret	viral capsid, turret
+GO_0039671	evasion by virus of host natural killer cell activity	suppression by virus of host natural killer cell function | viral immunoevasion of host NK cell | protection by virus against host NK cell cytotoxicity | evasion by virus of host NK cell killing | evasion by virus of host natural killer cell response
+GO_0039553	suppression by virus of host chemokine activity	negative regulation by virus of host chemokine activity | down-regulation by virus of host chemokine activity | downregulation by virus of host chemokine activity
+GO_0039674	exit of virus from host cell nucleus	exit of virus from host cell nucleus
+GO_0039675	exit of virus from host cell nucleus through nuclear pore	exit of virus from host cell nucleus through nuclear pore complex | nuclear pore exit of virus | viral enome export through nuclear pore
+GO_0039554	suppression by virus of host MDA-5 activity	Inhibition of host MDA5 by virus
+GO_0039672	suppression by virus of host natural killer cell activation	suppression by virus of host NK-cell activation
+GO_0039673	evasion by virus of host dendritic cell activity	impairing dendritic cell function by virus | evasion by virus of host dendritic cell response
+NCBITaxon_1415834	Bat SARS-like coronavirus Rs3367	Bat SARS-like coronavirus Rs3367
+NCBITaxon_633140	SARS coronavirus MA15 ExoN1	SARS coronavirus MA15 ExoN1
+GO_0039667	viral entry into host cell via pilus retraction	viral entry into host cell via pilus retraction
+GO_0039668	viral entry into host cell via pilus basal pore	viral entry into host cell via pilus basal pore
+GO_0039547	suppression by virus of host TRAF activity	inhibition of host TRAFs by virus
+NCBITaxon_633137	SARS coronavirus MA15	Urbani derived
+GO_0039665	permeabilization of host organelle membrane involved in viral entry into host cell	viral penetration via host endosomal membrane disruption by virus | viral penetration via permeabilization of host organellar membrane | viral penetration via perforation of host organellar membrane by virus
+GO_0039666	virion attachment to host cell pilus	pilus-adsorption protein
+GO_0039545	suppression by virus of host MAVS activity	inhibition of host MAVS by virus | suppression by virus of host mitochondrial antiviral-signaling protein
+GO_0061765	modulation by virus of host NIK/NF-kappaB signaling	modulation by virus of host NIK/NF-kappaB signaling
+GO_0140267	viral entry via permeabilization of host membrane	viral entry via permeabilization of host membrane
+GO_0039669	viral entry into host cell via pilus retraction and membrane fusion	viral entry into host cell via pilus retraction and membrane fusion
+GO_0039548	suppression by virus of host IRF3 activity	inhibition of host IRF3 by virus | suppression by virus of host interferon regulatory factor 3
+GO_0039663	membrane fusion involved in viral entry into host cell	membrane fusion involved in viral entry into host cell
+GO_0039664	lysis of host organelle involved in viral entry into host cell	viral penetration via lysis of host organellar membrane
+GO_0039540	suppression by virus of host RIG-I activity	inhibition of host DDX58/RIG-I by virus | inhibition by virus of host DDX58 activity
+NCBITaxon_273522	SARS coronavirus LLJ-2004	SARS coronavirus LLJ-2004
+NCBITaxon_227998	SARS coronavirus Hong Kong/03/2003	SARS coronavirus Hong Kong/03/2003
+GO_0039656	modulation by virus of host gene expression	modulation by virus of host gene expression
+GO_0039657	suppression by virus of host gene expression	host gene expression shutoff by virus
+GO_0039654	fusion of virus membrane with host endosome membrane	fusion of virus membrane with host endosomal membrane
+GO_0039539	suppression by virus of host MDA-5 signaling pathway	suppression by virus of host IFIH1 signaling pathway | suppression by virus of host MDA-5 signalling pathway | inhibition by virus of host MDA-5 signaling
+NCBITaxon_228607	SARS coronavirus BJ04	SARS coronavirus BJ04
+GO_0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway	suppression by virus of host cytoplasmic pattern recognition receptor signaling pathway in response to virus | suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signalling pathway
+GO_0039538	suppression by virus of host RIG-I signaling pathway	inhibition by virus of host RIG-I signaling | suppression by virus of host RIG-I signalling pathway | suppression by virus of host DDX58 signaling pathway
+GO_0039652	activation by virus of host NF-kappaB transcription factor activity	activation of host NF-kappa-B by virus
+GO_0098932	disruption by virus of host cell wall peptidoglycan during virus entry	degradation of host peptidoglycans during virus entry | disassembly by virus of host cell wall peptidoglycan | catabolism of host cell wall peptidoglycan by virus | degradation of host cell wall peptidoglycan by virus
+GO_0039653	suppression by virus of host transcription	suppression by virus of host DNA-dependent transcription
+GO_0039650	suppression by virus of host cysteine-type endopeptidase activity involved in apoptotic process	suppression by virus of host cysteine-type endopeptidase activity involved in apoptotic process
+GO_0039651	induction by virus of host cysteine-type endopeptidase activity involved in apoptotic process	induction by virus of host cysteine-type endopeptidase activity involved in apoptotic process
+GO_0098931	virion attachment to host cell flagellum	virion attachment to host cell flagellum
+NCBITaxon_260550	SARS coronavirus CUHK-L2	SARS coronavirus CUHK-L2
+NCBITaxon_239758	SARS coronavirus Taiwan TC3	SARS coronavirus Taiwan TC3
+GO_0039524	suppression by virus of host mRNA processing	inhibition of host pre-mRNA processing by virus | inhibition of host mRNA processing by virus | inhibition by virus of host mRNA processing
+GO_0039645	modulation by virus of host G1/S transition checkpoint	G1/S host cell cycle checkpoint dysregulation by virus
+GO_0039525	modulation by virus of host chromatin organization	modulation by virus of host chromatin organisation | modulation of host chromatin by virus | modulation of host chromatin structure by virus
+GO_0039646	modulation by virus of host G0/G1 transition checkpoint	G0/G1 host cell cycle checkpoint dysregulation by virus
+GO_0039522	suppression by virus of host mRNA export from nucleus	inhibition of host mRNA nuclear export by virus | suppression of host mRNA nuclear export by virus | inhibition by virus of host mRNA nuclear export
+GO_0039523	suppression by virus of host RNA polymerase II activity	inhibition of host RNA polymerase II activity by virus | inhibition of host RNA polymerase II by virus
+GO_0039644	suppression by virus of host NF-kappaB transcription factor activity	inhibition of host NF-kappa-B by virus
+GO_0039649	modulation by virus of host ubiquitin-protein ligase activity	modulation by virus of host ubiquitin-protein ligase activity
+GO_0039647	suppression by virus of host poly(A)-binding protein activity	inhibition of host poly(A)-binding protein by virus | suppression by virus of host PABP activity
+GO_0039526	modulation by virus of host apoptotic process	modulation of host cell apoptosis by virus | regulation by virus of host apoptosis | modulation by virus of host apoptosis
+GO_0039527	suppression by virus of host TRAF-mediated signal transduction	inhibition of host TRAF-mediated signal transduction by virus | suppression by virus of host tumor necrosis factor receptor-associated factor signaling
+GO_0039648	modulation by virus of host protein ubiquitination	modulation by virus of host protein ubiquitination
+GO_0039520	induction by virus of host autophagy	activation of host autophagy by virus
+GO_0039641	viral inner membrane	virion inner membrane
+GO_0039521	suppression by virus of host autophagy	inhibition of host autophagy by virus | inhibition by virus of host autophagy
+GO_0039642	virion nucleoid	virion nucleoid
+GO_0039640	cytolysis by virus via suppression of host peptidoglycan biosynthetic process	cytolysis by virus via suppression of host peptidoglycan biosynthetic process
+GO_0039519	modulation by virus of host autophagy	regulation by virus of host autophagy
+GO_0039513	suppression by virus of host catalytic activity	down-regulation by virus of host enzyme activity | negative regulation by virus of host catalytic activity | downregulation by virus of host catalytic activity
+GO_0039634	killing by virus of host cell during superinfection exclusion	killing by virus of host cells involved in superinfection exclusion | killing by virus of host cells during superinfection exclusion
+GO_0039635	suppression by virus of host peptidoglycan biosynthetic process	suppression by virus of host peptidoglycan biosynthetic process
+GO_0039514	suppression by virus of host JAK-STAT cascade	downregulation by virus of host JAK-STAT cascade | down-regulation by virus of host JAK-STAT cascade | negative regulation by virus of host JAK-STAT cascade
+GO_0039632	RNA translocase activity involved in viral RNA genome packaging	RNA packaging ATPase activity
+GO_0039511	suppression by virus of host interferon receptor activity	down-regulation by virus of host interferon receptor activity | inhibition of host interferon receptors by virus | negative regulation by virus of host interferon receptor activity | downregulation by virus of host interferon receptor activity
+GO_0039633	killing by virus of host cell	killing by virus of host cells
+GO_0039512	suppression by virus of host protein tyrosine kinase activity	negative regulation by virus of host protein tyrosine kinase activity | down-regulation by virus of host protein tyrosine kinase activity | downregulation by virus of host protein tyrosine kinase activity
+GO_0039517	modulation by virus of host protein serine/threonine phosphatase activity	regulation by virus of host protein serine/threonine phosphatase activity | modulation by virus of protein serine/threonine phosphatase activity in host
+GO_0039638	lipopolysaccharide-mediated virion attachment to host cell	virion attachment, binding to host lipopolysaccharide | LPS binding involved in viral attachment to host cell | lipopolysaccharide binding involved in viral attachment to host cell
+GO_0039518	suppression by virus of host cytokine activity	negative regulation by virus of host cytokine activity | down-regulation by virus of host cytokine activity | downregulation by virus of host cytokine activity
+GO_0039636	suppression by virus of host cell wall biogenesis	suppression by virus of host cell wall biogenesis
+GO_0039516	modulation by virus of host catalytic activity	regulation of host catalytic activity by virus | modulation of catalytic activity of host by virus | regulation by virus of host catalytic activity
+GO_0039637	catabolism by virus of host DNA	catabolism by virus of host DNA
+GO_0039510	suppression by virus of host ATP-dependent RNA helicase activity	negative regulation by virus of host ATP-dependent RNA helicase activity | downregulation by virus of host ATP-dependent RNA helicase activity | down-regulation by virus of host ATP-dependent RNA helicase activity
+GO_0039631	DNA translocase activity involved in viral DNA genome packaging	DNA translocase activity involved in viral DNA genome packaging
+# end
