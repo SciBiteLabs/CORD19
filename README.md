@@ -10,6 +10,9 @@ If you have any questions or feedback or are interested in additional data annot
 
 ## What is in this SciBite annotated dataset? ##
 
+You will find the annotated data versions at:
+https://github.com/SciBiteLabs/CORD19/tree/master/annotated-CORD-19
+
 Our ontology and SciBiteAI teams have used our software to produce sentence level annotations on this dataset to help those trying to identify biomedical entities within the text. The following have been identified
 
 
