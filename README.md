@@ -6,14 +6,14 @@ As part of our efforts to help the community with the CORD-19 challenge, we have
 1. Entity co-occurrence data within sentences
 1. Vocabularies used in this work describing coronavirus family and (specifically) COVID-19
 
-### Sentence level annotations for the COVID-19 Open Research Dataset Challenge using biomedical ontologies from SciBite ###
+## Sentence level annotations for the COVID-19 Open Research Dataset Challenge using biomedical ontologies from SciBite ##
 
 https://github.com/SciBiteLabs/CORD19/tree/master/annotated-CORD-19
 
-## Overview ##
+### Overview ###
 In March 2020 in response to the COVID-19 pandemic, The White House, AI2, CZI, MSR, Georgetown and NIH released an open research dataset along with a call for action (https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/) from the science and technology community. The call asks that artificial intelligence experts to develop new text and data mining techniques that can help the science community answer high-priority scientific questions related to COVID-19. The original datasets can be accessed at Kaggle: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 
-## What is in this SciBite annotated dataset? ##
+### What is in this SciBite annotated dataset? ###
 
 Our ontology and SciBiteAI teams have used our software to produce sentence level annotations on this dataset to help those trying to identify biomedical entities within the text. The following have been identified
 
@@ -29,23 +29,23 @@ GENE - HGNC | 930098 | 11491
 CVPROT - proteins of COVID-19 | 200180 | 14
 DRUG - ChEMBL | 449977 | 9636
 
-## Example of use ##
+### Example of use ###
 
 Identfying biomedical entities within sentences can be incredibly useful in narrowing down the space of 29,000 documents that researchers or algorithms are required to look at. For instance, if a specific gene or phenotype is of interest, then this data can be easily used to find those documents which contain them. Building knowledge graphs can be enhanced by being able to perform sentence cooccurence across large documents and forming edges depending upon the types contained. Sentence level sentiment/topic analysis using machine learning methods might also be peformed using the entity types. A full list of tasks are available on Kaggle: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks
 
 
-### Entity co-occurrence data within sentences ###
+## Entity co-occurrence data within sentences ##
 
 https://github.com/SciBiteLabs/CORD19/tree/master/sentence-co-occurrence-CORD-19/
 
-## Overview ##
+### Overview ###
 This data set represents a way to quickly look for connections between entities in the literature. It has the following columns:
 
 `document_id, sentence_id, entity_uris, entity_types_plus_ids`
 
 In most cases the URIs will link to external resources (such as ontologies) which may be amenable to scraping and often have their own APIs so you can navigate out into the broader life science datascape should you wish to do so.
 
-## Example of use ##
+### Example of use ###
 
 As an example of how you can use this to rapidly hone in on points of interest, we filtered out some sentences which have: a GENE or DRUG hit, and a CVPROT hit, and a hit for coronaviruses (an entity of type INDICATION):
 
@@ -54,11 +54,11 @@ To demonstrate that the colocalization of hel/N complexes with M at late times p
 However, on the basis of only these results, we could not determine whether these amino acid substitutions affected receptorbinding affinity between human DPP4 receptor and MERS-CoV S protein.`
 
 
-### Vocabularies used in this work describing coronavirus family and (specifically) COVID-19 ###
+## Vocabularies used in this work describing coronavirus family and (specifically) COVID-19 ##
 
 https://github.com/SciBiteLabs/CORD19/tree/master/vocabularies-CORD-19
 
-## Overview ##
+### Overview ###
 Two vocabularies have been released, both of which were used for this work; a vocab specific to COVID-19 and one more generally around coronavirus family. This includes common names and synonyms for the viruses, common genes and proteins investigated in these strains along with relevant gene ontology terms.
 
 
