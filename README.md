@@ -6,9 +6,9 @@ As part of our efforts to help the community with the CORD-19 challenge, we have
 1. [Entity co-occurrence data within sentences](https://github.com/SciBiteLabs/CORD19/blob/master/README.md#entity-co-occurrence-data-within-sentences)
 1. [Vocabularies used in this work describing coronavirus family and (specifically) COVID-19](https://github.com/SciBiteLabs/CORD19/blob/master/README.md#vocabularies-used-in-this-work-describing-coronavirus-family-and-specifically-covid-19)
 
-## Accessing the data in thie GitHub Repository ##
+## Accessing the data in this GitHub Repository ##
 
-Thge large files in this repo are uploaded using [GitHub Large File Sotre (LSF)](https://git-lfs.github.com/). To pull this content you can use the command:
+The large files in this repo are uploaded using [GitHub Large File Sotre (LSF)](https://git-lfs.github.com/). To pull this content you can use the command:
 
 `git lfs clone https://github.com/SciBiteLabs/CORD19.git`
 
