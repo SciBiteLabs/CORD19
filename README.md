@@ -1,8 +1,8 @@
-# COVID-19 Annotated Data v1.2
+# COVID-19 Annotated Data v1.3
 
 As part of our efforts to help the community with the CORD-19 challenge, we have released several resources to help.
 
-1. [Sentence level annotations for the COVID-19 Data](https://github.com/SciBiteLabs/CORD19/blob/master/README.md#sentence-level-annotations-for-the-covid-19-open-research-dataset-challenge-using-biomedical-ontologies-from-scibite)
+1. [Sentence level annotations for the COVID-19 Data version 6 (3rd April release)](https://github.com/SciBiteLabs/CORD19/blob/master/README.md#sentence-level-annotations-for-the-covid-19-open-research-dataset-challenge-using-biomedical-ontologies-from-scibite)
 1. [Entity co-occurrence data within sentences](https://github.com/SciBiteLabs/CORD19/blob/master/README.md#entity-co-occurrence-data-within-sentences)
 1. [Vocabularies used in this work describing coronavirus family and (specifically) COVID-19](https://github.com/SciBiteLabs/CORD19/blob/master/README.md#vocabularies-used-in-this-work-describing-coronavirus-family-and-specifically-covid-19)
 
@@ -12,12 +12,12 @@ The large files in this repo are uploaded using [GitHub Large File Sotre (LSF)](
 
 `git lfs clone https://github.com/SciBiteLabs/CORD19.git`
 
-## Sentence level annotations for the COVID-19 Open Research Dataset Challenge using biomedical ontologies from SciBite ##
+## Sentence level annotations for the COVID-19 Open Research Dataset Challenge (version 6) using biomedical ontologies from SciBite ##
 
 https://github.com/SciBiteLabs/CORD19/tree/master/annotated-CORD-19
 
 ### Overview ###
-In March 2020 in response to the COVID-19 pandemic, The White House, AI2, CZI, MSR, Georgetown and NIH released an open research dataset along with a call for action (https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/) from the science and technology community. The call asks that artificial intelligence experts to develop new text and data mining techniques that can help the science community answer high-priority scientific questions related to COVID-19. The original datasets can be accessed at Kaggle: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
+In March 2020 in response to the COVID-19 pandemic, The White House, AI2, CZI, MSR, Georgetown and NIH released an open research dataset along with a call for action (https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/) from the science and technology community. The call asks that artificial intelligence experts to develop new text and data mining techniques that can help the science community answer high-priority scientific questions related to COVID-19. The original datasets can be accessed at Kaggle: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge The annotations are made against version 6 of this data released 3rd April.
 
 ### What is in this SciBite annotated dataset? ###
 
