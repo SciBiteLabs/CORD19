@@ -40,7 +40,7 @@ DRUG - ChEMBL | 449977 | 9636
 Identfying biomedical entities within sentences can be incredibly useful in narrowing down the space of 29,000 documents that researchers or algorithms are required to look at. For instance, if a specific gene or phenotype is of interest, then this data can be easily used to find those documents which contain them. Building knowledge graphs can be enhanced by being able to perform sentence cooccurence across large documents and forming edges depending upon the types contained. Sentence level sentiment/topic analysis using machine learning methods might also be peformed using the entity types. A full list of tasks are available on Kaggle: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks
 
 
-## Entity co-occurrence data within sentences ##
+## Entity co-occurrence data within sentencesversion 1.2 ##
 
 https://github.com/SciBiteLabs/CORD19/tree/master/sentence-co-occurrence-CORD-19/
 
