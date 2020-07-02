@@ -1,4 +1,4 @@
-# COVID-19 Annotated Data v1.3
+# COVID-19 Annotated Data v1.5
 
 As part of our efforts to help the community with the CORD-19 challenge, we have released several resources to help.
 
