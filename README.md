@@ -32,7 +32,7 @@ SARSCOV - coronavirus strains and viral processes | 269567 | 247
 COUNTRY - Standard country codes | 383215 | 227
 HPO - human phenotypes | 779931 | 4256
 GENE - HGNC | 930098 | 11491
-CVPROT - proteins of COVID-19 | 200180 | 14
+CORONAPROT - proteins of COVID-19 | 200180 | 14
 DRUG - ChEMBL | 449977 | 9636
 
 ### Example of use ###
