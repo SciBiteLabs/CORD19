@@ -16,7 +16,7 @@ The large files in this repo are uploaded using [GitHub Large File Sotre (LSF)](
 
 To cite this data or read more about the work undertaken please use our preprint publication: Reference ontology and database annotation of the COVID-19 Open Research Dataset (CORD-19) https://doi.org/10.1101/2020.10.04.325266
 
-## Sentence level annotations for the COVID-19 Open Research Dataset Challenge (version 6) using biomedical ontologies from SciBite ##
+## Sentence level annotations for the COVID-19 Open Research Dataset Challenge (version 54) using biomedical ontologies from SciBite ##
 
 https://github.com/SciBiteLabs/CORD19/tree/master/annotated-CORD-19
 
