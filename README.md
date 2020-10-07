@@ -1,8 +1,8 @@
-# COVID-19 Annotated Data v1.5
+# COVID-19 Annotated Data v1.6 (CORD-19 version 54)
 
 As part of our efforts to help the community with the CORD-19 challenge, we have released several resources to help.
 
-1. [Sentence level annotations for the COVID-19 Data version 6 (3rd April release)](https://github.com/SciBiteLabs/CORD19/blob/master/README.md#sentence-level-annotations-for-the-covid-19-open-research-dataset-challenge-using-biomedical-ontologies-from-scibite)
+1. [Sentence level annotations for the COVID-19 Data version 54 (1st October 2020 release)](https://github.com/SciBiteLabs/CORD19/blob/master/README.md#sentence-level-annotations-for-the-covid-19-open-research-dataset-challenge-using-biomedical-ontologies-from-scibite)
 1. [Entity co-occurrence data within sentences](https://github.com/SciBiteLabs/CORD19/blob/master/README.md#entity-co-occurrence-data-within-sentences)
 1. [Vocabularies used in this work describing coronavirus family and (specifically) COVID-19](https://github.com/SciBiteLabs/CORD19/blob/master/README.md#vocabularies-used-in-this-work-describing-coronavirus-family-and-specifically-covid-19)
 
@@ -12,12 +12,16 @@ The large files in this repo are uploaded using [GitHub Large File Sotre (LSF)](
 
 `git lfs clone https://github.com/SciBiteLabs/CORD19.git`
 
+## Citing this work ##
+
+To cite this data or read more about the work undertaken please use our preprint publication: Reference ontology and database annotation of the COVID-19 Open Research Dataset (CORD-19) https://doi.org/10.1101/2020.10.04.325266
+
 ## Sentence level annotations for the COVID-19 Open Research Dataset Challenge (version 6) using biomedical ontologies from SciBite ##
 
 https://github.com/SciBiteLabs/CORD19/tree/master/annotated-CORD-19
 
 ### Overview ###
-In March 2020 in response to the COVID-19 pandemic, The White House, AI2, CZI, MSR, Georgetown and NIH released an open research dataset along with a call for action (https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/) from the science and technology community. The call asks that artificial intelligence experts to develop new text and data mining techniques that can help the science community answer high-priority scientific questions related to COVID-19. The original datasets can be accessed at Kaggle: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge The annotations are made against version 6 of this data released 3rd April.
+In March 2020 in response to the COVID-19 pandemic, The White House, AI2, CZI, MSR, Georgetown and NIH released an open research dataset along with a call for action (https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/) from the science and technology community. The call asks that artificial intelligence experts to develop new text and data mining techniques that can help the science community answer high-priority scientific questions related to COVID-19. The original datasets can be accessed at Kaggle: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge The annotations are made against version 54 of this data released 1st October 2020.
 
 ### What is in this SciBite annotated dataset? ###
 
@@ -25,22 +29,22 @@ Our ontology and SciBiteAI teams have used our software to produce sentence leve
 
 Ontology Type | Total Hits | Unique Hits
 ------------ | ------------- | -------------
-SPECIES - NCBI Taxon | 2918832 | 3234
-GOONTOL - Gene Ontology terms | 1792505 | 7980
-INDICATION - MeSH | 2796144 | 5222
-SARSCOV - coronavirus strains and viral processes | 269567 | 247
-COUNTRY - Standard country codes | 383215 | 227
-HPO - human phenotypes | 779931 | 4256
-GENE - HGNC | 930098 | 11491
-CORONAPROT - proteins of COVID-19 | 200180 | 14
-DRUG - ChEMBL | 449977 | 9636
+SPECIES - NCBI Taxon | 9958967 | 3502
+GOONTOL - Gene Ontology terms | 6975073 | 10702
+INDICATION - MeSH | 12998639 | 6360
+SARSCOV - coronavirus strains and viral processes | 2629924 | 302
+COUNTRY - Standard country codes | 2078689 | 228
+HPO - human phenotypes | 3997204 | 5737
+GENE - HGNC | 4018135 | 15714
+CORONAPROT - proteins of COVID-19 | 795869 | 67
+DRUG - ChEMBL | 2513491 | 20134
 
 ### Example of use ###
 
 Identfying biomedical entities within sentences can be incredibly useful in narrowing down the space of 29,000 documents that researchers or algorithms are required to look at. For instance, if a specific gene or phenotype is of interest, then this data can be easily used to find those documents which contain them. Building knowledge graphs can be enhanced by being able to perform sentence cooccurence across large documents and forming edges depending upon the types contained. Sentence level sentiment/topic analysis using machine learning methods might also be peformed using the entity types. A full list of tasks are available on Kaggle: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks
 
 
-## Entity co-occurrence data within sentencesversion 1.2 ##
+## Entity co-occurrence data within sentencesversion 1.3 ##
 
 https://github.com/SciBiteLabs/CORD19/tree/master/sentence-co-occurrence-CORD-19/
 
